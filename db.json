@@ -158,6 +158,61 @@
           "es": "Empezar ahora"
         }
       }
+    ],
+    "solutionsItems": [
+      {
+        "name": {
+          "pt": "Crie uma Escola Online",
+          "en": "Create an Online School",
+          "es": "Crea una Escuela en Línea"
+        },
+        "description": {
+          "pt": "Lorem ipsum dolor sit amet",
+          "en": "Lorem ipsum dolor sit amet",
+          "es": "Lorem ipsum dolor sit amet"
+        }, 
+        "img": "./assets/ead.svg"
+      },
+      {
+        "name": {
+          "pt": "Comunidade e rede social",
+          "en": "Community and Social Network",
+          "es": "Comunidad y Red Social"
+        },
+        "description": {
+          "pt": "Lorem ipsum dolor sit amet",
+          "en": "Lorem ipsum dolor sit amet",
+          "es": "Lorem ipsum dolor sit amet"
+        },
+        "img": "./assets/social.svg"
+      },
+      {
+        "name": {
+          "pt": "Gamificação",
+          "en": "Gamification",
+          "es": "Gamificación"
+        },
+        "description": {
+          "pt": "Lorem ipsum dolor sit amet",
+          "en": "Lorem ipsum dolor sit amet",
+          "es": "Lorem ipsum dolor sit amet"
+        },
+        "img": "./assets/gamification.svg"
+      },
+      {
+        "name": {
+          "pt": "Aplicativo mobile",
+          "en": "Mobile Application",
+          "es": "Aplicación Móvil"
+        },
+        "description": {
+          "pt": "Lorem ipsum dolor sit amet",
+          "en": "Lorem ipsum dolor sit amet",
+          "es": "Lorem ipsum dolor sit amet"
+        },
+        "img": "./assets/mobile.svg"
+      }
     ]
+    
   }
 }
