@@ -1,48 +1,163 @@
-
 {
-  "items": [
-    {
-      "img": "https://front-end-async-test.vercel.app/assets/track-83b3f9c9.svg",
-      "id": 1,
-      "title": {
-        "pt": "Trilhas",
-        "en": "Steps",
-        "es": "Pasos"
+  "data": {
+    "items": [
+      {
+        "img": "https://front-end-async-test.vercel.app/assets/track-83b3f9c9.svg",
+        "id": 1,
+        "title": {
+          "pt": "Trilhas",
+          "en": "Steps",
+          "es": "Pasos"
+        },
+        "description": {
+          "pt": "Crie planos de estudos especificando aulas e/ou cursos e definindo a ordem que seus alunos devem estudar.",
+          "en": "Create study plans by specifying classes or courses and defining the order in which your students should study.",
+          "es": "Crea planes de estudio especificando clases o cursos y definiendo el orden en el que tus alumnos deben estudiar."
+        }
       },
-      "description": {
-        "pt": "Crie planos de estudos especificando aulas e/ou cursos e definindo a ordem que seus alunos devem estudar.",
-        "en": "Create study plans by specifying classes or courses and defining the order in which your students should study.",
-        "es": "Crea planes de estudio especificando clases o cursos y definiendo el orden en el que tus alumnos deben estudiar."
-
+      {
+        "img": "https://front-end-async-test.vercel.app/assets/playlists-5c352d15.svg",
+        "id": 2,
+        "title": {
+          "pt": "Playlists",
+          "en": "Playlists",
+          "es": "Playlists"
+        },
+        "description": {
+          "pt": "Transforme uma coleção em uma playlist para poder ver vídeos e áudios em sequência e offline.",
+          "en": "Turn a collection into a playlist so you can watch videos and audios in sequence and offline.",
+          "es": "Convierta una colección en una lista de reproducción para que pueda ver videos y audios en secuencia y sin conexión."
+        }
+      },
+      {
+        "img": "https://front-end-async-test.vercel.app/assets/folder-ea118acf.svg",
+        "id": 3,
+        "title": {
+          "pt": "Coleções",
+          "en": "Collections",
+          "es": "Colecciones"
+        },
+        "description": {
+          "pt": "Crie coleções, adicione conteúdos, reorganize ítens e deixe tudo do seu jeito para melhorar a experiência.",
+          "en": "Create collections, add content, rearrange items, and have it your way to enhance the experience.",
+          "es": "Cree colecciones, agregue contenido, reorganice elementos y déjelo a su manera para mejorar la experiencia."
+        }
+      }
+    ],
+    "content": {
+      "home": {
+        "title": {
+          "pt": "Sua escola online poderosa e lucrativa",
+          "en": "Your powerful and profitable online school",
+          "es": "Tu escuela en línea potente y rentable"
+        },
+        "subtitle": {
+          "pt": "Tenha sua própria escola online 100% white label com rede social, gamificação, clube de assinaturas, ecommerce e sistema EAD completo.",
+          "en": "Have your own 100% white label online school with social network, gamification, subscription club, e-commerce, and a complete EAD system.",
+          "es": "Tenga su propia escuela en línea 100% white label con red social, gamificación, club de suscripción, comercio electrónico y un sistema EAD completo."
+        },
+        "slogan": {
+          "pt": "Plataforma all in one",
+          "en": "All-in-One Platform",
+          "es": "Plataforma todo en uno"
+        },
+        "buttons": {
+          "startNow": {
+            "pt": "Começar agora",
+            "en": "Start Now",
+            "es": "Comenzar ahora"
+          },
+          "watchVideo": {
+            "pt": "Ver vídeo",
+            "en": "Watch Video",
+            "es": "Ver vídeo"
+          }
+        },
+        "mainContent": {
+          "mainContentSub": {
+            "pt": "Pensamos em cada detalhe",
+            "en": "We've thought of every detail",
+            "es": "Hemos pensado en cada detalle"
+          },
+          "MoreResources": {
+            "pt": "Conheça alguns dos nossos recursos ⚡️",
+            "en": "Discover some of our resources ⚡️",
+            "es": "Descubre algunos de nuestros recursos ⚡️"
+          },
+          "MainContentTitle": {
+            "pt": "Queremos que o aluno se sinta confortável enquanto aprende",
+            "en": "We want the student to feel comfortable while learning",
+            "es": "Queremos que el alumno se sienta cómodo mientras aprende"
+          },
+          "SeeAllResourcesText": {
+            "pt": "Veja todos os outros recursos disponíveis para te ajudar",
+            "en": "See all the other resources available to help you",
+            "es": "Mira todos los demás recursos disponibles para ayudarte"
+          },
+          "SeeMoreBtn": {
+            "pt": "Ver mais",
+            "en": "See more",
+            "es": "Ver más"
+          }
+        }
       }
     },
-    {
-      "img": "https://front-end-async-test.vercel.app/assets/playlists-5c352d15.svg",
-      "id": 2,
-      "title": {
-        "pt": "Playlists",
-        "en": "Playlists",
-        "es": "Playlists"
+    "navbarLinks": [
+      {
+        "page": {
+          "pt": "Preços",
+          "en": "Prices",
+          "es": "Precios"
+        },
+        "href": "/"
       },
-      "description": {
-        "pt": "Transforme uma coleção em uma playlist para poder ver vídeos e áudios em sequência e offline.",
-        "en": "Turn a collection into a playlist so you can watch videos and audios in sequence and offline.",
-        "es": "Convierta una colección en una lista de reproducción para que pueda ver videos y audios en secuencia y sin conexión."
-      }
-    },
-    {
-      "img": "https://front-end-async-test.vercel.app/assets/folder-ea118acf.svg",
-      "id": 3,
-      "title": {
-        "pt": "Coleções",
-        "en": "Collections",
-        "es": "Colecciones"
+      {
+        "page": {
+          "pt": "Academia",
+          "en": "Academy",
+          "es": "Academia"
+        },
+        "href": "/"
       },
-      "description": {
-        "pt": "Crie coleções, adicione conteúdos, reorganize ítens e deixe tudo do seu jeito para melhorar a experiência.",
-        "en": "Create collections, add content, rearrange items, and have it your way to enhance the experience.",
-        "es": "Cree colecciones, agregue contenido, reorganice elementos y déjelo a su manera para mejorar la experiencia."
+      {
+        "page": {
+          "pt": "Blog",
+          "en": "Blog",
+          "es": "Blog"
+        },
+        "href": "/"
+      },
+      {
+        "page": {
+          "pt": "Contato",
+          "en": "Contact",
+          "es": "Contacto"
+        },
+        "href": "/"
       }
-    }
-  ]
+    ],
+    "navbarButtons": [
+      {
+        "solutions": {
+          "pt": "Soluções",
+          "en": "Solutions",
+          "es": "Soluciones"
+        }
+      },
+      {
+        "signIn": {
+          "pt": "Entrar",
+          "en": "Sign In",
+          "es": "Iniciar"
+        }
+      },
+      {
+        "start": {
+          "pt": "Começar agora",
+          "en": "Start Now",
+          "es": "Empezar ahora"
+        }
+      }
+    ]
+  }
 }
