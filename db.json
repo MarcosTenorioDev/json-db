@@ -171,7 +171,7 @@
           "en": "Lorem ipsum dolor sit amet",
           "es": "Lorem ipsum dolor sit amet"
         }, 
-        "img": "./assets/ead.svg"
+        "img": "https://json-db-theta.vercel.app/assets/ead.svg"
       },
       {
         "name": {
@@ -184,7 +184,7 @@
           "en": "Lorem ipsum dolor sit amet",
           "es": "Lorem ipsum dolor sit amet"
         },
-        "img": "./assets/social.svg"
+        "img": "https://json-db-theta.vercel.app/assets/social.svg"
       },
       {
         "name": {
@@ -197,7 +197,7 @@
           "en": "Lorem ipsum dolor sit amet",
           "es": "Lorem ipsum dolor sit amet"
         },
-        "img": "./assets/gamification.svg"
+        "img": "https://json-db-theta.vercel.app/assets/gamification.svg"
       },
       {
         "name": {
@@ -210,7 +210,7 @@
           "en": "Lorem ipsum dolor sit amet",
           "es": "Lorem ipsum dolor sit amet"
         },
-        "img": "./assets/mobile.svg"
+        "img": "https://json-db-theta.vercel.app/assets/mobile.svg"
       }
     ]
     
