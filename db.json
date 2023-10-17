@@ -2,7 +2,7 @@
   "data": {
     "items": [
       {
-        "img": "https://front-end-async-test.vercel.app/assets/track-83b3f9c9.svg",
+        "img": "https://json-db-theta.vercel.app/assets/track.svg",
         "id": 1,
         "title": {
           "pt": "Trilhas",
@@ -16,7 +16,7 @@
         }
       },
       {
-        "img": "https://front-end-async-test.vercel.app/assets/playlists-5c352d15.svg",
+        "img": "https://json-db-theta.vercel.app/assets/playlists.svg",
         "id": 2,
         "title": {
           "pt": "Playlists",
@@ -30,7 +30,7 @@
         }
       },
       {
-        "img": "https://front-end-async-test.vercel.app/assets/folder-ea118acf.svg",
+        "img": "https://json-db-theta.vercel.app/assets/folder.svg",
         "id": 3,
         "title": {
           "pt": "Coleções",
@@ -212,7 +212,12 @@
         },
         "img": "https://json-db-theta.vercel.app/assets/mobile.svg"
       }
-    ]
+    ],
+    "solutionTitle": {
+      "pt": "Soluções principais",
+      "en": "Main Solutions",
+      "es": "Soluciones Principales"
+    }
     
   }
 }
